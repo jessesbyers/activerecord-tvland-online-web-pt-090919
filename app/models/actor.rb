@@ -15,5 +15,4 @@ class Actor < ActiveRecord::Base
     end
     roles
   end
-
 end
